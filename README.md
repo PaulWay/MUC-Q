@@ -6,7 +6,6 @@ Omni Computer Products, in collaboration with Irish Business Machines,
 present a new paradigm in quantum computing hardware combined with
 traditional silicon CPUs for maximum flexibility.
 
-
 # Features
 
 * 69-qubit Quantum CPU
@@ -52,6 +51,7 @@ traditional silicon CPUs for maximum flexibility.
 
 * Matrix detailing which cores can be in use at any one time
 * Matrix determining layout of control registers per boot (due to ASLR)
+* Maximum and minimum clock speed vs altitude graph
 
 # Performance charts
 
